@@ -91,6 +91,7 @@ export default function Page() {
                 title={education.school}
                 subtitle={education.degree}
                 period={`${education.start} - ${education.end}`}
+                description="9.04 CGPA"
               />
             </BlurFade>
           ))}
