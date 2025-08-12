@@ -156,7 +156,7 @@ export const DATA = {
     {
       title: "Zen",
       href: "https://automatic.chat",
-      dates: "April 2023 - March 2024",
+      dates: "Feb 2024 - March 2024",
       active: true,
       description:
         "Developed a gamified web app for managing stress, anxiety, and depression, measuring mental health levels, assigning daily activities, and enabling self-rewards with periodic reassessments.",
