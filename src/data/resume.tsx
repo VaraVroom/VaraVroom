@@ -21,7 +21,6 @@ export const DATA = {
     "Power BI",
     "Azure SQL",
     "Microsoft SQL Server",
-    "Power BI",
     "Java",
     "Vue",
     "Javascript"
