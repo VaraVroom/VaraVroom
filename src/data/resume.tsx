@@ -46,6 +46,13 @@ export const DATA = {
 
         navbar: true,
       },
+      Resume:{
+        name: "Resume",
+        url: "https://drive.google.com/file/d/1tgRsj-4rD_H2KWkO2277-iD1VW-pT3M3/view",
+        icon: Icons.resume,
+
+        navbar: true,
+      },
       email: {
         name: "Send Email",
         url: "varunsomashekar@gmail.com",
