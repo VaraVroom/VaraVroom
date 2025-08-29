@@ -8,9 +8,9 @@ export const DATA = {
   location: "Bengaluru, IN",
   locationLink: "https://www.google.com/maps/place/bengaluru",
   description:
-    "A Data Engineer & an Aspiring Data Analyst. Passionate about uncovering insights and creating data-driven solutions.",
+    "Results-driven engineer skilled in Python and SQL, with experience building scalable data pipelines and software applications.",
   summary:
-    "I am a 2025 B.Tech graduate in Artificial Intelligence and Data Science, currently working as a Data Engineer Intern at Informatica. With a strong foundation in data engineering, I am passionate about transitioning into data analysis, where I can leverage my skills to uncover insights, solve problems, and drive informed decision-making.",
+    "Results driven engineer with experience in building scalable data pipelines and software applications. Skilled in Python, SQL, and cloud platforms with strong knowledge of algorithms, databases, and distributed systems. Dedicated to turning business needs into efficient technical solutions in data processing and application development. Collaborative team player focused on clean code and high performance systems.",
   avatarUrl: "/varavroom.jpeg",
   skills: [
     "Python",
