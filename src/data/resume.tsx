@@ -70,7 +70,7 @@ company: "Salesforce",
       badges: [],
       location: "Bengaluru, IN",
       title: "Data Engineer Intern",
-      logoUrl: "/salesforce.png",
+      logoUrl: "/salesforce.jpg",
       start: "Feb 2026",
       end: "Present",
       description:
