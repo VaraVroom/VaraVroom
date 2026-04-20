@@ -4,7 +4,7 @@ import { HomeIcon, NotebookIcon } from "lucide-react";
 export const DATA = {
   name: "Varun S",
   initials: "VS",
-  url: "https://dillion.io",
+  url: "https://varavroom.vercel.app/",
   location: "Bengaluru, IN",
   locationLink: "https://www.google.com/maps/place/bengaluru",
   description:
@@ -65,6 +65,18 @@ export const DATA = {
 
   work: [
     {
+company: "Salesforce",
+      href: "https://www.salesforce.com/",
+      badges: [],
+      location: "Bengaluru, IN",
+      title: "Data Engineer Intern",
+      logoUrl: "/salesforce.png",
+      start: "Feb 2026",
+      end: "Present",
+      description:
+        "(Transitioned to Salesforce following the acquisition of Informatica) Built automation using IICS Salesforce Connector APIs to generate SQL create/alter scripts, accelerating onboarding of new objects and schema updates. Developed an AI-based solution to compare metadata and detect new fields, reducing manual effort in schema evolution and improving workflow efficiency. Additionally, created an AI-assisted mapping reviewer that extracts metadata via IICS REST APIs and evaluates it against predefined rules, delivering quality scores and actionable suggestions to enhance data pipelines.",
+    },
+    {
       company: "Informatica",
       href: "https://www.informatica.com/",
       badges: [],
@@ -72,9 +84,9 @@ export const DATA = {
       title: "Data Engineer Trainee",
       logoUrl: "/informatica.jpg",
       start: "June 2025",
-      end: "Present",
+      end: "Feb 2026",
       description:
-        "At Informatica, I work as a Data Engineer Intern, contributing to the design, development, and optimization of data pipelines. My role involves working with large datasets, ensuring data quality, and preparing data for analysis and reporting. I collaborate with the team to implement ETL processes and improve data workflows, supporting business intelligence and analytics initiatives.",
+        "Built a Python-based automation using OpenAI to analyze and classify errors in suspended Informatica IICS task flows, automatically resuming those with known issues via APIs and reducing manual intervention by 30–35%. Automated multi-pod data ingestion from Amazon Redshift to Azure Delta stage tables with dynamic incremental loads, eliminating the need for separate regional mappings. Managed onboarding and maintenance of Salesforce objects (such as Opportunity, Account, and Lead) in the EDW, including handling monthly schema changes and ensuring data consistency. Additionally, developed an RPA bot using Automation Anywhere to capture IICS job details and generate audit-ready reports.",
     },
   ],
   education: [
